@@ -1,0 +1,21 @@
+{
+  "name": "discordaccountbot",
+  "version": "1.0.0",
+  "description": "DiscordAccountBot",
+  "main": "bot.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MendtheMiner/DiscordAccountBot.git"
+  },
+  "author": "MendtheMiner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MendtheMiner/DiscordAccountBot/issues"
+  },
+  "homepage": "https://github.com/MendtheMiner/DiscordAccountBot#readme"
+}
